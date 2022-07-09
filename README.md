@@ -1,4 +1,4 @@
-# vuemastery-graphql-server
+# graphql-server
 
 ## Project setup
 ```
@@ -7,7 +7,7 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn apollo
 ```
 
 ### Compiles and minifies for production
